@@ -1,4 +1,6 @@
-![image-20250618220327919](C:\Users\Leo\AppData\Roaming\Typora\typora-user-images\image-20250618220327919.png)**The Architecture of EDCT-BinFormer**
+![image](https://github.com/user-attachments/assets/4febfd8d-8d3b-43fd-b60f-5ea8478a76a1)
+
+The Architecture of EDCT-BinFormer**
 
 ### 1.Data Splitting
 
