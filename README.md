@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/38827a5f-2704-4a3e-ba77-86aab014e9f2)
 
 
-The Architecture of EDCT-BinFormer**
+The Architecture of EDCT-BinFormer
 
 ### 1.Data Splitting
 
