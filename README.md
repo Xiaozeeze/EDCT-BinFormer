@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4febfd8d-8d3b-43fd-b60f-5ea8478a76a1)
+![image](https://github.com/user-attachments/assets/38827a5f-2704-4a3e-ba77-86aab014e9f2)
+
 
 The Architecture of EDCT-BinFormer**
 
